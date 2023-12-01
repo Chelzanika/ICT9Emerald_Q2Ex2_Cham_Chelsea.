@@ -1,0 +1,15 @@
+Body { background: mistyrose; 
+	   text-align: center;
+	   font-family: cursive;}
+
+#About { background-color: lavender;
+		 margin-right: 60px;
+		 margin-top: 20px;
+		 margin-left: 60px;
+		 margin-bottom: 20px}
+
+#albums { background-color: aliceblue;
+		 margin-right: 60px;
+		 margin-top: 20px;
+		 margin-left: 60px;
+		 margin-bottom: 20px}
